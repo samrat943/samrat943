@@ -50,9 +50,3 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 - 🌍 International Rank 4 (2015) – Science Olympiad Foundation (SOF)
 
 ---
-
-## 📫 Connect With Me
-
-Email: samratsingharoy943@gmail.com
-
----
