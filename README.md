@@ -1,16 +1,84 @@
-## Hi there 👋
 
-<!--
-**samrat943/samrat943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Samrat Singharoy! 👋
 
-Here are some ideas to get you started:
+### 📊 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about transforming raw data into meaningful insights and actionable business decisions. I enjoy data analysis, building interactive dashboards, statistical analysis, and solving real-world problems through data.
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science (2027)
+- 📍 Kolkata, India
+- 📊 Interested in Data Analytics, Business Intelligence & Machine Learning
+- 🌱 Currently improving my skills in Python, SQL, Power BI and Advanced Analytics.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- Google Data Analytics Professional Certificate – Coursera (2025)
+- SQL for Data Science – Coursera (2025)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Rank 40 – Dentsu Tech Hackathon 2026
+- 🎯 89.90 Percentile – JEE Mains 2023
+- 🏸 Rank 4 (2018) – State-Level Badminton, IIT Bombay Gymkhana
+- 🌍 International Rank 4 (2015) – Science Olympiad Foundation (SOF)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology – Artificial Intelligence & Data Science**
+
+D.R. D.Y. Patil University | 2027
+
+**Higher Secondary**
+
+Kendriya Vidyalaya IIT Bombay | 2023
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: samratsingharoy943@gmail.com
+
+💻 GitHub: [@Nabanil24](https://github.com/Nabanil24)
+
+🌐 Portfolio: [Visit My Portfolio](https://github.com/Nabanil24/portfolio)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabanil24&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabanil24&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 💡 "Turning Data into Insights, and Insights into Impact." 📈
