@@ -57,10 +57,6 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 
 D.R. D.Y. Patil University | 2027
 
-**Higher Secondary**
-
-Kendriya Vidyalaya IIT Bombay | 2023
-
 ---
 
 ## 📫 Connect With Me
@@ -68,5 +64,3 @@ Kendriya Vidyalaya IIT Bombay | 2023
 📧 Email: samratsingharoy943@gmail.com
 
 ---
-
-### 💡 "Turning Data into Insights, and Insights into Impact." 📈
