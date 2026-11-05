@@ -1,5 +1,5 @@
 
-# Hi there, I'm Samrat Singharoy! 👋
+# Hi there, I'm Samrat Singharoy!
 
 ### 📊 Aspiring Data Analyst
 
