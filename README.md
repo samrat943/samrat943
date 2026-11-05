@@ -67,18 +67,6 @@ Kendriya Vidyalaya IIT Bombay | 2023
 
 📧 Email: samratsingharoy943@gmail.com
 
-💻 GitHub: [@Nabanil24](https://github.com/Nabanil24)
-
-🌐 Portfolio: [Visit My Portfolio](https://github.com/Nabanil24/portfolio)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabanil24&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabanil24&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 💡 "Turning Data into Insights, and Insights into Impact." 📈
