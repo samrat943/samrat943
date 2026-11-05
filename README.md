@@ -51,16 +51,8 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Technology – Artificial Intelligence & Data Science**
-
-D.R. D.Y. Patil University | 2027
-
----
-
 ## 📫 Connect With Me
 
-📧 Email: samratsingharoy943@gmail.com
+Email: samratsingharoy943@gmail.com
 
 ---
