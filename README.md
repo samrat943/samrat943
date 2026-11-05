@@ -1,7 +1,7 @@
 
 # Hi there, I'm Samrat Singharoy! 👋
 
-### 📊 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
+### 📊 Aspiring Data Analyst
 
 I'm passionate about transforming raw data into meaningful insights and actionable business decisions. I enjoy data analysis, building interactive dashboards, statistical analysis, and solving real-world problems through data.
 
