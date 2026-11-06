@@ -45,7 +45,7 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 
 - 🥇 Rank 40 – Dentsu Tech Hackathon 2026
 - 🎯 89.90 Percentile – JEE Mains 2023
-- 🏸 Rank 4 (2018) – State-Level Badminton, IIT Bombay Gymkhana
-- 🌍 International Rank 4 (2015) – Science Olympiad Foundation (SOF)
+- 🏸 Rank 4 – State-Level Badminton, IIT Bombay Gymkhana
+- 🌍 State Rank 4 – Science Olympiad Foundation (SOF), Kolkata
 
 ---
