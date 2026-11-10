@@ -28,6 +28,7 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -46,8 +47,6 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 ## 🏆 Achievements
 
 - 🥇 Rank 40 – Dentsu Tech Hackathon 2026
-- 🎯 89.90 Percentile – JEE Mains 2023
 - 🏸 Rank 4 – State-Level Badminton, IIT Bombay Gymkhana
-- 🌍 State Rank 4 – Science Olympiad Foundation (SOF), Kolkata
 
 ---
